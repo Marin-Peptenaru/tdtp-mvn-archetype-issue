@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="org.example.features.search.viewusers.SearchUsers" skipped="0" tests="1" time="101.98" timestamp="2022-05-11 10:28:14"><testcase classname="org.example.features.search.viewusers.SearchUsers" name="Search for keyword in users and assure only matching users are displayed"><error message="Expected condition failed: waiting for element to be clickable: HomePage.usersLink (tried for 100 second(s) with 500 milliseconds interval)" type="org.openqa.selenium.TimeoutException">Expected condition failed: waiting for element to be clickable: HomePage.usersLink (tried for 100 second(s) with 500 milliseconds interval)</error><system-err>Expected condition failed: waiting for element to be clickable: HomePage.usersLink (tried for 100 second(s) with 500 milliseconds interval)
+org.example.pages.HomePage.goToUsersPage(HomePage.java:20)
+org.example.steps.serenity.HomePageSteps.goToUsersPage(HomePageSteps.java:13)
+org.example.features.search.viewusers.SearchUsers.search_for_keyword_in_users_and_assure_only_matching_users_are_displayed(SearchUsers.java:49)
+</system-err></testcase></testsuite>
